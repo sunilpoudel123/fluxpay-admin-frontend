@@ -4,7 +4,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/arhamkhnz/next-shadcn-admin-dashboard.git
+   git clone https://github.com/sunilpoudel123/fluxpay-admin-frontend.git
    ```
    
 2. **Install dependencies**
